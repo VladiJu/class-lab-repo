@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Vladimon]  
+- Certification: [Database Eng]  
 
 ## Instructions
 Please replace the placeholders with your details:
